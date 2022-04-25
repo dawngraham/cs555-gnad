@@ -1,4 +1,7 @@
 # cs555-gnad
+
+[Slideshow Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSISLI4M_KK7w7atZMm6tnle7LDAid-93KKd6jQ5vX3MGGlksPayaXlVP9Yl8eLdg/pub?start=false&loop=false&delayms=3000)
+
 |Data File|Shape|Description|
 |---|---|---|
 |campaigns.csv|492 obs. of 39 variables|Campaign details scraped from the [Global Nonviolent Action Database](https://nvdatabase.swarthmore.edu/index.php/browse). Up to date as of 4/14/2022.|
