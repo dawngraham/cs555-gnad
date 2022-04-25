@@ -4,7 +4,7 @@
 
 |Data File|Shape|Description|
 |---|---|---|
-|campaigns.csv|492 obs. of 39 variables|Campaign details scraped from the [Global Nonviolent Action Database](https://nvdatabase.swarthmore.edu/index.php/browse). Up to date as of 4/14/2022.|
+|campaigns.csv|492 obs. of 39 variables|Campaign details scraped from the [Global Nonviolent Action Database](https://nvdatabase.swarthmore.edu/index.php/browse). North America only. Up to date as of 4/14/2022.|
 |campaigns_clean.csv|492 obs. of 53 variables|Data set after preprocessing to create dummy variables, getting unique counts, totals, etc.|
 |campaigns_clean_subset.csv|492 obs. of 15 variables|Subset of columns from campaigns_clean.csv to use in analysis.|
 
